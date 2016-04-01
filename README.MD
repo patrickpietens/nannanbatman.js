@@ -1,6 +1,8 @@
 # NaNNaNBatman.js
 Function inspired by the Gary Bernhards talk: https://www.destroyallsoftware.com/talks/wat
 
+[![Batman!](https://img.youtube.com/vi/EtoMN_xi-AM/0.jpg)](https://www.youtube.com/watch?v=EtoMN_xi-AM)
+
 ## Example
 ```javascript
 import NaNNaNBatman from 'NaNNaNBatman.js';
