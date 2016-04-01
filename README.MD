@@ -4,6 +4,7 @@ Function inspired by the Gary Bernhards talk: https://www.destroyallsoftware.com
 ## Example
 ```javascript
 import NaNNaNBatman from 'NaNNaNBatman.js';
+
 console.log(NaNNaNBatman());
 ```
 
