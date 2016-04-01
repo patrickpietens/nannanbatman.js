@@ -1,0 +1,36 @@
+{
+  "name": "NaNNaNBatman.js",
+  "version": "1.0.0",
+  "description": "NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batman! https://www.destroyallsoftware.com/talks/wat",
+  "main": "dist/NaNNaNBatman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "development": "NODE_ENV=development gulp",
+    "production": "NODE_ENV=production gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickpietens/NaNNaNBatman.js.git"
+  },
+  "keywords": [
+    "wat",
+    "batman",
+    "garybernhard"
+  ],
+  "author": "Patrick Pietens <hello@patrickpietens.com> (http://patrickpietens.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickpietens/NaNNaNBatman.js/issues"
+  },
+  "homepage": "https://github.com/patrickpietens/NaNNaNBatman.js#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-if": "^2.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-umd": "^0.2.0",
+    "gulp-util": "^3.0.7"
+  }
+}

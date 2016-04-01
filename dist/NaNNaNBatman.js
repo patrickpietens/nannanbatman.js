@@ -1,0 +1,1 @@
+!function(e,t){"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?module.exports=t():e.NaNNaNBatman=t()}(this,function(){"use strict";return select});
